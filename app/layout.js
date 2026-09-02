@@ -5,6 +5,12 @@ export const metadata = {
   description: 'Ghar ki safai ke liye No.1 choice. Buy MAXXOCARE premium cleaning products.',
 }
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+}
+
 import './globals.css';
 
 export default function RootLayout({ children }) {

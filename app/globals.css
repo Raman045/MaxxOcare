@@ -420,11 +420,6 @@ footer {
   .span-3-col { grid-column: span 2; }
 }
 @media (max-width: 768px) {
-  .hero-text h1 { font-size: 3.5rem; }
-  .promo-grid { grid-template-columns: 1fr; }
-  .span-2-row { grid-row: span 1; }
-  .span-2-col, .span-3-col { grid-column: span 1; }
-  .dealership-container { padding: 2rem; }
 }
 
 /* Click Indicator on Product Cards */
@@ -595,6 +590,15 @@ footer {
 }
 
 @media (max-width: 768px) {
+  nav { flex-direction: column; gap: 1rem; padding-bottom: 0.5rem; }
+  .nav-links { gap: 1rem; font-size: 0.95rem; }
+  .hero { padding-top: 2rem; }
+  .hero-text h1 { font-size: 3.5rem; }
+  .promo-grid { grid-template-columns: 1fr; }
+  .span-2-row { grid-row: span 1; }
+  .span-2-col, .span-3-col { grid-column: span 1; }
+  .dealership-container { padding: 2rem; }
+  
   .modal-content { padding: 1.5rem; width: 95%; }
   .slider-btn { width: 35px; height: 35px; font-size: 1.2rem; }
   .prev-btn { left: -10px; }
