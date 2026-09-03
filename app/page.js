@@ -75,7 +75,7 @@ export default function Home() {
       id: 9,
       name: 'White Phenyl (Hygiene Deodorising)',
       desc: 'Hygiene aur mehak dono ek saath! Farsh se gandagi hataye, macchar aur makhiyon ko bhagaye, aur ghar ko rakhe bilkul fresh.',
-      size: 'Available in: 500ml',
+      size: 'Available in: 500ml, 5L',
       image: '/white-phenyl.png',
       gallery: ['/white-phenyl.png', '/usecase-white-floor.jpg']
     },
