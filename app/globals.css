@@ -100,15 +100,15 @@ a {
 
 /* Header */
 header {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(0, 0, 0, 0.85);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   padding: 1rem 2rem;
   position: sticky;
   top: 0;
   z-index: 100;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
 }
 nav {
   max-width: 1400px;
@@ -125,7 +125,7 @@ nav {
   font-weight: 600;
   font-size: 1.1rem;
   transition: color 0.3s ease;
-  color: var(--text-main);
+  color: #ffffff;
 }
 .nav-links a:hover {
   color: var(--primary-color);
