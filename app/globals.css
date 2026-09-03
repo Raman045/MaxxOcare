@@ -21,8 +21,8 @@ body {
   font-family: 'Outfit', sans-serif;
   color: var(--text-main);
   background-color: var(--bg-light);
-  /* A beautiful fresh gradient that feels like clean water */
-  background-image: linear-gradient(135deg, #f4fafe 0%, #e0f2fe 50%, #f0f9ff 100%);
+  /* A beautiful Pearl & Rose gradient that feels elegant and floral */
+  background-image: linear-gradient(135deg, #fdfbfb 0%, #fff0f5 50%, #fdf5f6 100%);
   background-attachment: fixed;
   line-height: 1.6;
   overflow-x: hidden;
@@ -44,10 +44,10 @@ body {
 .bubble {
   position: absolute;
   bottom: -50px;
-  background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.2) 60%, rgba(0, 210, 255, 0.1));
+  background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.4) 60%, rgba(255, 182, 193, 0.2));
   border-radius: 50%;
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  box-shadow: 0 0 10px rgba(0, 210, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 0 15px rgba(255, 105, 180, 0.15);
   animation: float-up infinite ease-in;
 }
 
