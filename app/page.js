@@ -67,7 +67,7 @@ export default function Home() {
       id: 8,
       name: 'MAXXOCARE Black Phenol',
       desc: 'Ek powerful disinfectant jo bimari failane wale germs ko maare. Hospital, ghar aur toilet ki safai ke liye best quality phenyl.',
-      size: 'Available in: 100ml, 500ml',
+      size: 'Available in: 100ml, 500ml, 5L',
       image: '/black-phenol.png',
       gallery: ['/black-phenol.png', '/usecase-phenol.jpg']
     },
