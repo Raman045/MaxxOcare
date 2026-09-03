@@ -12,24 +12,24 @@ export default function Home() {
       name: 'MAXXOCARE Toilet Cleaner',
       desc: '10X Action ke saath ziddi daag aur keetanuon ka khatma! Aapke toilet ko banaye fresh aur bilkul naya.',
       size: 'Available in: 250ml, 500ml, 1000ml & 5L',
-      image: '/toilet-cleaner.jpg',
-      gallery: ['/toilet-cleaner.jpg', '/usecase-toilet.jpg']
+      image: '/toilet-cleaner.png',
+      gallery: ['/toilet-cleaner.png', '/usecase-toilet.jpg']
     },
     {
       id: 2,
       name: 'MAXXOCARE Fabric Whitener',
       desc: 'Kapdo ki safedi aur chamak wapas laye. Daag hataye aur purane kapdo ko de nayi jaisi chamak!',
       size: 'Available in: 200ml, 500ml',
-      image: '/fabric-whitener.jpg',
-      gallery: ['/fabric-whitener.jpg', '/usecase-fabric.jpg']
+      image: '/fabric-whitener.png',
+      gallery: ['/fabric-whitener.png', '/usecase-fabric.jpg']
     },
     {
       id: 3,
       name: 'MAXXOCARE Glass Cleaner',
       desc: 'Shishe aur windows ke liye perfect! Bina kisi daag ke shandar chamak aur dust-free finish har baar.',
       size: 'Available in: 250ml, 500ml',
-      image: '/glass-cleaner.jpg',
-      gallery: ['/glass-cleaner.jpg', '/usecase-glass.jpg']
+      image: '/glass-cleaner.png',
+      gallery: ['/glass-cleaner.png', '/usecase-glass.jpg']
     },
     {
       id: 4,
@@ -44,8 +44,8 @@ export default function Home() {
       name: 'MAXXOCARE Bleaching Powder',
       desc: 'Multipurpose cleaning aur sanitization ke liye sabse asardar bleaching powder. Naaliyon aur naaliyo ko rakhe saaf.',
       size: 'Available in: 500g',
-      image: '/bleaching-powder.jpg',
-      gallery: ['/bleaching-powder.jpg', '/usecase-bleach.jpg']
+      image: '/bleaching-powder.png',
+      gallery: ['/bleaching-powder.png', '/usecase-bleach.jpg']
     },
     {
       id: 6,
