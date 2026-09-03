@@ -17,6 +17,13 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
+        <div className="bubble-container">
+          <div className="bubble" style={{ left: '10%', width: '40px', height: '40px', animationDuration: '8s' }}></div>
+          <div className="bubble" style={{ left: '30%', width: '60px', height: '60px', animationDuration: '10s', animationDelay: '2s' }}></div>
+          <div className="bubble" style={{ left: '50%', width: '30px', height: '30px', animationDuration: '6s', animationDelay: '4s' }}></div>
+          <div className="bubble" style={{ left: '70%', width: '50px', height: '50px', animationDuration: '12s', animationDelay: '1s' }}></div>
+          <div className="bubble" style={{ left: '90%', width: '70px', height: '70px', animationDuration: '9s', animationDelay: '3s' }}></div>
+        </div>
         <header>
           <nav>
             <div className="brand-logo">
