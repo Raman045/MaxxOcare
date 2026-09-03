@@ -35,7 +35,7 @@ export default function Home() {
       id: 4,
       name: 'White Lemon & Rose Phenyl',
       desc: 'Ghar ke farsh ko banaye completely germs free. Lemon aur Rose ki behtareen khushboo ke saath.',
-      size: 'Available in: 1000ml',
+      size: 'Available in: 1000ml, 5L',
       image: '/floor-cleaner.jpg',
       gallery: ['/floor-cleaner.jpg', '/usecase-floor.jpg']
     },
@@ -75,7 +75,7 @@ export default function Home() {
       id: 9,
       name: 'White Phenyl (Hygiene Deodorising)',
       desc: 'Hygiene aur mehak dono ek saath! Farsh se gandagi hataye, macchar aur makhiyon ko bhagaye, aur ghar ko rakhe bilkul fresh.',
-      size: 'Available in: 500ml, 5L',
+      size: 'Available in: 500ml',
       image: '/white-phenyl.png',
       gallery: ['/white-phenyl.png', '/usecase-white-floor.jpg']
     },
