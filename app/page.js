@@ -78,6 +78,14 @@ export default function Home() {
       size: 'Available in: 500ml',
       image: '/white-phenyl.png',
       gallery: ['/white-phenyl.png', '/usecase-white-floor.jpg']
+    },
+    {
+      id: 10,
+      name: 'MAXXOCARE Hand Wash (Fresh Aqua)',
+      desc: 'Gentle & Effective! 99.9% germ protection with moisturizers. pH balanced and soft on hands for everyday protection.',
+      size: 'Available in: 500ml',
+      image: '/hand-wash.png',
+      gallery: ['/hand-wash.png', '/usecase-handwash.jpg']
     }
   ];
 
